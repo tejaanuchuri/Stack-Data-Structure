@@ -1,0 +1,34 @@
+Stack : 
+
+    1. Is a Linear Data Structure.
+    2. which follows a particular Order may be LIFO OR FILO.
+
+Implementation of stack:
+    1. Using Array.
+    2. Using Linkedlist.
+
+How to understand a stack practically? 
+
+    1. There are many real-life examples of a stack.
+    2. Consider the simple example of plates stacked over one another in a canteen.
+    3. The plate which is at the top is the first one to be removed, 
+       i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time.
+       So, it can be simply seen to follow LIFO/FILO order.
+
+Time Complexities of operations on stack:
+
+    1. Push()   =>  o(1)
+    2. Pop()    =>  o(1)
+    3. isEmpty()=>  o(1)
+    4. top()    =>  o(1)
+    5. size()   =>  o(1)
+
+Applications Of Stack:
+    1. Balancing of Symbols
+    2. Infix toa Postfix
+    3. Redo-undo
+    4. forward and backward feature in web browser.
+    5. tree travesals
+    6. Tower OF Honai
+    7. Backtracking
+    8. recursion concept
