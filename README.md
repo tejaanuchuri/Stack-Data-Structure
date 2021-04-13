@@ -8,5 +8,7 @@ Implementations of Stack In Differnt Ways :
 > 4. [Implementation Of Stack Using Inbulit Function](https://github.com/tejaanuchuri/Stack-Data-Structure/blob/main/Stack%20Implementation/Inbulit%20stack.cpp) 
 > 5. [Implementation Of Stack Using Single Queue](https://github.com/tejaanuchuri/Stack-Data-Structure/blob/main/Stack%20Implementation/using%20single%20queue.cpp)
 > 6. [Implementation Of TwoStack Using In Array](https://github.com/tejaanuchuri/Stack-Data-Structure/blob/main/Stack%20Implementation/Implementation%20of%20two%20stack%20in%20array.cpp) 
+> 7. [Implementation Of Stack Using In Priority Queue](https://github.com/tejaanuchuri/Stack-Data-Structure/blob/main/Stack%20Implementation/using%20priority_queue.cpp) 
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
